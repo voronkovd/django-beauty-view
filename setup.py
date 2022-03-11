@@ -9,7 +9,7 @@ setup(
     version=__version__,
     author='Dmitry Voronkov',
     author_email='mail@voronkovd.ru',
-    url='https://bitbucket.org/voronkovd/django-beauty-view',
+    url='https://github.com/voronkovd/django-beauty-view/',
     description='Beauty Django Views Mixin',
     long_description=open('README.md').read(),
     license='GNU General Public License',
