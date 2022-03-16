@@ -1,6 +1,8 @@
 # django-beauty-view #
 
 
+[![Upload Python Package](https://github.com/voronkovd/django-beauty-view/actions/workflows/python-publish.yml/badge.svg)](https://github.com/voronkovd/django-beauty-view/actions/workflows/python-publish.yml)
+
 Django collection mixin view
 
 
